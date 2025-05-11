@@ -40,10 +40,10 @@ This project simulates and models **Arbiter Physical Unclonable Functions (APUFs
 ### Accuracy Plots
 
 #### Model Accuracy for 8 bit circuit
-![Model Accuracy for 8 bit circuit](plots/accuracy_plot_8.png.png)
+![Model Accuracy for 8 bit circuit](plots/accuracy_plot_8.png)
 
 #### Model Accuracy for 16 bit circuit
-![Model Accuracy for 16 bit circuit](plots/accuracy_plot_16.png.png)
+![Model Accuracy for 16 bit circuit](plots/accuracy_plot_16.png)
 
 ## 📄 Data Format
 
