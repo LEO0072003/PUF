@@ -1,7 +1,7 @@
 # APUF Neural Network Modeling
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![TensorFlow](https://img.shields.io/badge/tensorflow-2.4+-blue.svg)
+![TensorFlow](https://img.shields.io/badge/tensorflow-2.19+-blue.svg)
 
 ## 📖 Overview
 
